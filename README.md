@@ -9,8 +9,11 @@ Network Information Center, y es un organismo encargado de asignar las direccion
 DHCP asigna automáticamente una dirección IP y otra información a cada host en la red para que puedan comunicarse de manera eficiente con otros puntos finales.
 
 ¿Desde donde podemos saber si estamos obteniendo una IP por DHCP?
+desde el apartado de centro de redes y recursos compartidos observaremos nuestro adaptador de red.
 
 ¿Qué diferencia hay entre IPv4 y IPv6?
+IPv4 tiene direcciones IP que son valores numéricos de 32 bits escritos en el sistema decimal, mientras que IPv6 tiene 128 bits escritos en el sistema hexadecimal.
+
 Envía un pantallazo del sitio desde donde se cambia la dirección IP
 ¿Qué es una DNS?
 ¿Cuantas tarjetas de red podemos tener?
