@@ -18,4 +18,4 @@ Envía un pantallazo del sitio desde donde se cambia la dirección IP
 ¿Qué es una DNS?
 permite a los usuarios conectarse a sitios web usando nombres de dominio en lugar de direcciones IP.
 ¿Cuantas tarjetas de red podemos tener?
-
+todas las que permite nuestra computadora.
