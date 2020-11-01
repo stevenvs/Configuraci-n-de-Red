@@ -16,4 +16,6 @@ IPv4 tiene direcciones IP que son valores numéricos de 32 bits escritos en el s
 
 Envía un pantallazo del sitio desde donde se cambia la dirección IP
 ¿Qué es una DNS?
+permite a los usuarios conectarse a sitios web usando nombres de dominio en lugar de direcciones IP.
 ¿Cuantas tarjetas de red podemos tener?
+
